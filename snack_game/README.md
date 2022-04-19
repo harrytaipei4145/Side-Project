@@ -1,4 +1,4 @@
-# ball_game
+# sanck_game
 
 ## Project setup
 ```
