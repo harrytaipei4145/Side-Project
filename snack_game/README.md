@@ -1,4 +1,4 @@
-# sanck_game
+# snack_game
 
 ## Project setup
 ```
